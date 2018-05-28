@@ -5,6 +5,8 @@ excerpt: Discover the OVH Analytics Platform and why you need it
 section: Introduction
 ---
 
+**Last updated 28th May, 2018**
+
 ## What is OVH Analytics ?
 
 OVH Analytics is as a fully flexible and secure solution specially designed **to store and analyse high volume of data**, based on an install of a **complete Hadoop stack** for analytics.
