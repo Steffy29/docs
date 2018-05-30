@@ -5,15 +5,15 @@ excerpt: Discover the OVH Analytics Platform and why you need it
 section: Introduction
 ---
 
-**Last updated 30   th May, 2018**
+**Last updated 30th May, 2018**
 
 ## What is OVH Analytics ?
 
 OVH Analytics provides a one-click pre-configured Hadoop stack designed to store and process high volumes of data across OVH Public Cloud infrastructure.
 
-The solution is based on **[Hortonworks Data Platform&trade;](https://hortonworks.com/products/data-platforms/hdp/) (HDP&reg;)** and feature many of the popular frameworks of the Hadoop ecosystem, including **[HDFS](https://hortonworks.com/apache/hdfs/)**, **[Hive](https://hortonworks.com/apache/hive/)**, **[HBase](https://hortonworks.com/apache/hbase/)**, **[Kafka](https://hortonworks.com/apache/kafka/)**, **[Spark](https://hortonworks.com/apache/spark/)** and **[Presto](https://prestodb.io/)**.
+The solution is based on **[Hortonworks Data Platform&trade;](https://hortonworks.com/products/data-platforms/hdp/) (HDP&reg;)** and features many of the popular frameworks of the Hadoop ecosystem, including **[HDFS](https://hortonworks.com/apache/hdfs/)**, **[Hive](https://hortonworks.com/apache/hive/)**, **[HBase](https://hortonworks.com/apache/hbase/)**, **[Kafka](https://hortonworks.com/apache/kafka/)**, **[Spark](https://hortonworks.com/apache/spark/)** and **[Presto](https://prestodb.io/)**.
 
-OVH Analytics can handle a wide range of use cases including business intelligence, IoT, marketing analysis, AI, data cleaning, and predictive maintenance.
+With OVH Analytics, you can handle a wide range of use cases including business intelligence, IoT, marketing analysis, AI, data cleaning, and predictive maintenance.
 
 ### One-click big data platform
 
@@ -23,7 +23,7 @@ Once ordered, your cluster is provisioned in less than 1 hour. OVH Analytics tak
 
 You have full control over your cluster and are given root access to services and instances. You can monitor, install new services and operate your cluster from your web browser using **Apache Ambari** or directly using an integrated **Web SSH terminal**.
 
-### Secure
+### Isolated
 
 Kerberos authentication is enabled out of the box on all OVH Analytics clusters. You can easily manage all the cluster users via a **pre-installed LDAP directory** and web interface. Access control and fine-grained auditing is made possible by the integrated **Apache Ranger** service.
 
@@ -32,6 +32,10 @@ Your OVH Analytics cluster benefits from **OVH vRack** technology, isolating all
 ### Open-source and reversibility
 
 Forget about vendor-lock, OVH Analytics is based on the fully open-source **Hortonworks Data Platform&trade; (HDP&reg;)**. Hortonworks&trade; is an opensource driven company and highly contributes to Hadoop ecosystem.
+
+You can delete your cluster after use whenever you want, even just after a few hours.
+
+[Learn more about Open Cloud Foundation](https://open-cloud-foundation.org/)  
 
 ## Technical considerations
 
