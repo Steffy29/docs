@@ -6,7 +6,7 @@ section: Getting started - Data Collector
 order: 2
 ---
 
-**Last updated**
+**Last updated 31th May, 2018**
 
 ## Configure your data collector
 
